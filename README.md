@@ -25,6 +25,7 @@ Ejercicio 2:
 Si bien respondí todo, la segunda pregunta no estoy del todo segura y confieso que indagué para ver qué sería lo más factible, sin embargo no llegué a ninguna conclusión más que la de la respuesta pero, repito, tengo mis dudas. Del tema modelado nunca he trabajado y, tal como le comenté a Lisandro, es algo que me gustaría aprender, las nociones que tengo son bastante básicas y requeriría práctica en la rama.
 
 Enunciados: [Ejercicio_Data_Engineer_(1).docx](https://github.com/mdlstudioar/challengeOLX/files/7468120/Ejercicio_Data_Engineer_.1.docx)
+
 Respuestas al Ejercicio 2: [Rtas challenge OLX.pdf](https://github.com/mdlstudioar/challengeOLX/files/7468131/Rtas.challenge.OLX.pdf)
 
 
