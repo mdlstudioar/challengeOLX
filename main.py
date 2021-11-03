@@ -57,7 +57,6 @@ def convert_types():
                 pass
 
 
-# print(f.dtypes)
 if __name__ == "__main__":
     convert_types()
     f.to_json("sample_typesok.json", orient="table")  # convierto el file con las modificaciones a json
